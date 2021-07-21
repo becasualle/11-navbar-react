@@ -4,7 +4,7 @@ export const links = [
   {
     id: 1,
     url: '/',
-    text: 'random',
+    text: 'home',
   },
   {
     id: 2,
@@ -31,7 +31,7 @@ export const links = [
 export const social = [
   {
     id: 1,
-    url: 'https://www.twitter.com',
+    url: 'https://www.facebook.com',
     icon: <FaFacebook />,
   },
   {
